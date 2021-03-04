@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures",
+  "name": "Awesome imagen pictures",
   "short_name": "Foxes",
-  "start_url": "/pwa-examples/a2hs/index.html"
+  "start_url": "/Practica/a2hs/index.html"
 }
